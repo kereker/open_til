@@ -25,5 +25,8 @@
 
 ・C:\xampp\phpMyAdmin\config.incより
 
-・
+29行目の記述を追加する
+
 ![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP6.PNG)
+
+
