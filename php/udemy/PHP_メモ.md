@@ -12,3 +12,8 @@
 
 # VS CodeでPHPの開発をするのに導入した拡張機能
 [拡張機能について](https://qiita.com/cflat0528/items/08814378a5cf0d0c107d)
+
+# queryとprepareの違い
+[queryとprepare](https://se-tomo.com/2018/07/12/php%E3%81%AEquery%E3%81%A8prepare%E3%81%AE%E9%81%95%E3%81%84/)
+
+
