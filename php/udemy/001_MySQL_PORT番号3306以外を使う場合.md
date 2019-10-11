@@ -29,4 +29,6 @@
 
 ![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP6.PNG)
 
+・実際にPHPとMySQLを連携する際に必要な構文
 
+![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP7.PNG)
