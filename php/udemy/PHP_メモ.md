@@ -7,3 +7,8 @@
 # Cookieとセッションについて
 [Cookieとセッションについて](https://qiita.com/7968/items/ce03feb17c8eaa6e4672)
 
+#htmlspecialchars()
+[htmlspecialchars()について](https://qiita.com/kmnohno3/items/f34ff785ed566d90429b)
+
+# VS CodeでPHPの開発をするのに導入した拡張機能
+[拡張機能について](https://qiita.com/cflat0528/items/08814378a5cf0d0c107d)
