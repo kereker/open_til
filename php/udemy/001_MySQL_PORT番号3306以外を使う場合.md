@@ -17,6 +17,13 @@
 ・MySQLのConfigボタン押下---my.iniクリック
 
   
-  ![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP4.PNG)
+![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP4.PNG)
   
-  
+・port = 3309に変更(2か所)
+
+![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP5.PNG)
+
+・C:\xampp\phpMyAdmin\config.incより
+
+・
+![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP6.PNG)
