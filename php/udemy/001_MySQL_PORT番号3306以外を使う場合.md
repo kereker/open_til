@@ -8,5 +8,15 @@
 
 ![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP2.PNG)
 
+・MySQLタブで Main Portに3309を記述する
 
+![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP3.PNG)
 
+・saveボタン押下
+
+・MySQLのConfigボタン押下---my.iniクリック
+
+  
+  ![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP4.PNG)
+  
+  
