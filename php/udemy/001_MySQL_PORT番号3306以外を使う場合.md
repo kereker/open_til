@@ -6,7 +6,7 @@
 
 ・**Service and Port Settings**ボタン押下
 
-![画像](https://github.com/kereker/open_til/blob/feature/PHP_Basic/php/udemy/img/XAMMP2.PNG)
+![画像](img/XAMMP2.PNG)
 
 ・MySQLタブで Main Portに3309を記述する
 
