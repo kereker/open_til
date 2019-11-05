@@ -7,14 +7,14 @@
 ```
 ## ■ターミナル(Gitの操作を行うツールの)コマンド
 ```
-・cd ディレクトリを移動する。
+・cd ディレクトリを移動する。   ※ディレクトリ≒フォルダ
    (例:cd ~/Documents/my_udemy_code/git_tutorial )
 
 ・ls ディレクトリの内容を表示する。
    (例: ls)
 
-・mkdir 新規ディレクトリの作成する。
-   (例: )
+・mkdir 新規ディレクトリの作成する。(今いるディレクトリの中に)
+   (例:mkdir git_tutorial)
 
 ・rm ファイル削除する。
    (例:git rm --cached index.html)--cachedオプショ
