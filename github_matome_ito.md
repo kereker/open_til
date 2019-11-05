@@ -28,12 +28,9 @@
 
 ・mv ファイルの移動or名前変更する。
    (例:git mv index.html index2.html)名前変更
-理由は、git mv が
-
-　　『	$ mv oldname newname
-	$ git add newname
-	$ git rm oldname	』
-					が省略形
+理由は、git mv が　　『	$ mv oldname newname
+　　　　　　　　　　　　 $ git add newname
+	                   $ git rm oldname	』  	が省略形となるため
 
 ・cat ファイルの中身を表示する。
    (例:cat ファイル名)
@@ -81,9 +78,6 @@
     ・保存されているリポジトリ名表示 + URL(fetch + push)
      $ git remote -v
 ```
-
-
-
 ## ■ブランチ
 ```
 ・一覧表示(存在する自分の全てのブランチ)
