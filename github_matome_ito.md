@@ -17,9 +17,7 @@
    (例:mkdir git_tutorial)
 
 ・rm ファイル削除する。
-   (例:git rm --cached index.html)--cachedオプショ
-ンで、インデックスのみ削除し、作業ツリーにファイル
-を残す事ができる。
+   (例:git rm --cached index.html)--cachedオプションで、インデックスのみ削除し、作業ツリーにファイルを残す事ができる。
 
 ・cp ファイルコピーする。
 
@@ -29,8 +27,8 @@
 ・mv ファイルの移動or名前変更する。
    (例:git mv index.html index2.html)名前変更
 理由は、git mv が　　『	$ mv oldname newname
-　　　　　　　　　　　　 $ git add newname
-	                   $ git rm oldname	』  	が省略形となるため
+　　　　　　　　　　　　  $ git add newname
+	                $ git rm oldname	』  	が省略形となるため
 
 ・cat ファイルの中身を表示する。
    (例:cat ファイル名)
@@ -97,7 +95,7 @@
 　 -D 削除（強制）
 ```
 
-##　■プルリクエスト
+## ■プルリクエスト
 ```
     ①masterブランチを最新情報に更新
      $ git pull <リモートリポジット名> master
