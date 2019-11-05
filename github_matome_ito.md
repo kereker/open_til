@@ -17,7 +17,8 @@
    (例:mkdir git_tutorial)
 
 ・rm ファイル削除する。
-   (例:git rm --cached index.html)--cachedオプションで、インデックスのみ削除し、作業ツリーにファイルを残す事ができる。
+   (例:git rm --cached index.html)
+        --cachedオプションで、インデックスのみ削除し、作業ツリーにファイルを残す事ができる。
 
 ・cp ファイルコピーする。
 
@@ -125,11 +126,7 @@
 
 
 # ★参考サイト
-```
-    ・サルでもわかるGit入門〜バージョン管理を使いこなそう〜
-        https://backlog.com/ja/git-tutorial/
+    ・サルでもわかるGit入門〜バージョン管理を使いこなそう〜(https://backlog.com/ja/git-tutorial/)
     
-    ・Qiita～エンジニアリングに関する知識を記録・共有するためのサービスサイト～
-        https://qiita.com/search?utf8=%E2%9C%93&sort=&q=Git+
+    ・Qiita～エンジニアリングに関する知識を記録・共有するためのサービスサイト～(https://qiita.com/search?utf8=%E2%9C%93&sort=&q=Git+)
 
-```
