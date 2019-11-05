@@ -126,7 +126,8 @@
 
 
 # ★参考サイト
-    ・サルでもわかるGit入門〜バージョン管理を使いこなそう〜(https://backlog.com/ja/git-tutorial/)
-    
-    ・Qiita～エンジニアリングに関する知識を記録・共有するためのサービスサイト～(https://qiita.com/search?utf8=%E2%9C%93&sort=&q=Git+)
+
+[サルでもわかるGit入門〜バージョン管理を使いこなそう〜](https://backlog.com/ja/git-tutorial/)
+
+[Qiita～エンジニアリングに関する知識を記録・共有するためのサービスサイト～](https://qiita.com/search?utf8=%E2%9C%93&sort=&q=Git+)
 
