@@ -33,7 +33,7 @@
     $ git config user.name    (登録されたユーザー名)
     $ git config user.email   (登録されたメアド)
     $ git config core.editor  (登録されたエディタ)
-    $ git config --list        (登録されているデータ)
+    $ git config --list       (登録されているデータ)
 
     $ cat ~/.gitconfig
 ```
@@ -100,14 +100,14 @@
      $ git checkout -b <新規ブランチ名>
 
     3.ファイル編集
-     ターミナルでファイルを編集する。
+     ターミナルでファイルを編集する
     
     4.コミット
      $ git add <ファイル名>
      $ git commit <ファイル名>
     
     5.リモートへプッシュ
-    　$ git push <リモートリポジトリ名> <新規ブランチ名(②と同様物)>
+    　$ git push <リモートリポジトリ名> <新規ブランチ名(2.と同様物)>
 
     ▼6.~8.はGitHubでの作業
     6.プルリクエストを送る
@@ -115,7 +115,7 @@
     8.プルリクエストをマージ
 
     9.ブランチ削除
-     $ git branch -D <新規ブランチ名(②と同様物)>
+     $ git branch -D <新規ブランチ名(2.と同様物)>
 ```
 
 
