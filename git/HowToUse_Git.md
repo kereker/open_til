@@ -15,9 +15,7 @@
 |rm|ファイル削除する。|(例:git rm --cached index.html)|--cachedオプションで、インデックスのみ削除し、<br>作業ツリーにファイルを残す事ができる。|
 |cp|ファイルコピーする。|||
 |touch|ファイル作成|(例:$ touch <ファイル名>)||
-|mv|ファイルの移動or名前変更する。|(例:git mv index.html index2.html)名前変更|理由は、git mv が『$ mv oldname newname<br>
-                  $ git add newname<br>
-                  $ git rm oldname  	』が省略形となるため|
+|mv|ファイルの移動or名前変更する。|(例:git mv index.html index2.html)名前変更|理由は、git mv が <br> 『$ mv oldname newname <br>  $ git add newname <br>  $ git rm oldname  	』 <br>   が省略形となるため|
 |cat|ファイルの中身を表示する。|(例:cat ファイル名)||
 
 ## ■初期設定
@@ -29,13 +27,13 @@
   $ git config --global user.name "<GitHubでのユーザー名>"
   $ git config --global user.email "<GitHubでのメアド>"
   $ git config --global core.editor "<エディタを設定する>"
-
-　　・登録の確認
+```
+　　- 登録の確認
+```
     $ git config user.name    (登録されたユーザー名)
     $ git config user.email   (登録されたメアド)
     $ git config core.editor  (登録されたエディタ)
     $ git config --list        (登録されているデータ)
-
 
     $ cat ~/.gitconfig
 ```
@@ -54,18 +52,15 @@
 ```
     専用のサーバに配置して複数人で共有するためのリポジトリ
 ```
-```
-    - リモートリポジトリ作成(追加)
+- リモートリポジトリ作成(追加)
 ```
      $ git remote add <新規リモートリポジトリ名> <設定したいリポジトリのURL>
 ```
-    
-    - 保存されているリポジトリ名表示
+- 保存されているリポジトリ名表示
 ```
      $ git remote
 ```
-
-    - 保存されているリポジトリ名表示 + URL(fetch + push)
+- 保存されているリポジトリ名表示 + URL(fetch + push)
 ```
      $ git remote -v
 ```
@@ -93,7 +88,7 @@
 　～オプション～　
 ```
 　-d 削除（非強制）
-　 -D 削除（強制）
+　-D 削除（強制）
 ```
 
 ## ■プルリクエスト
