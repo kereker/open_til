@@ -4,14 +4,14 @@
 
 * php_xdebug-2.8.0-7.3-vc15-x86_64.dll(アプリケーション拡張)」ダウンロード
 
-* C:\xampp\php\extに貼り付け
-* 画像入れる（1）
+* C:\xampp\php\extに貼り付け  
+ ![画像1](img/gazo1.PNG)
 
-## 2.Phpstormの設定
+## 2.Phpstormの設定  
 
-* 画像入れる（2）
-* 構成の編集をクリック
-* 画像入れる（3）
+ ![画像2](img/gazo2.PNG)
+* 構成の編集をクリック  
+ ![画像3](img/gazo3.PNG)
 * ＋をクリック
 * PHP Remote Debugを選択
 * 名前:任意（ここではXAMPP）
@@ -28,8 +28,8 @@
   
 ## 3.XAMPPの設定
 
-* PHP（php.ini）を選択
-* 画像（4）  
+* PHP（php.ini）を選択  
+ ![画像4](img/gazo4.PNG)  
 * 下記の記述を追加↓  
   
 ```bash
@@ -56,5 +56,5 @@ xdebug.idekey = "PHPSTORM"
 ## 4.XDebugの起動確認
 
 * プログラム内にphpinfo();を記述
-* localhostサーバを立ち上げ、XDebugがあることを確認（検索かけると良い）
-* 画像入れる（5）
+* localhostサーバを立ち上げ、XDebugがあることを確認（検索かけると良い）  
+ ![画像5](img/gazo5.PNG)
