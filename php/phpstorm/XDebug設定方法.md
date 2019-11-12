@@ -2,10 +2,16 @@
 
 ## 1.XDebugインストール
 
-(※本記事ではJetBrains PhpStorm 2019.2.3バージョンによる記載です)  
+(※本記事では下記のバージョンについて記載してます)
+
+```bash
+・PhpStorm：JetBrains PhpStorm 2019.2.3
+・PHP：PHP Version 7.3.10
+・XAMPP：XAMPP Control Panel v3.2.4
+```
 
 * php_xdebug-2.8.0-7.3-vc15-x86_64.dll(アプリケーション拡張)」ダウンロード
-  * [XDebugダウウンロード](https://xdebug.org/download)
+  * [XDebugダウンロード](https://xdebug.org/download)
 
 * C:\xampp\php\extに貼り付け  
  ![画像1](img/gazo1.PNG)
@@ -55,7 +61,7 @@ xdebug.remote_cookie_expire_time = 36000
 xdebug.idekey = "PHPSTORM"  
 ```
 
-（注意） xdebug.idekey = "PHPSTORM" と Phpstormの設定のideキーの記述名を一致させる
+**（注意） xdebug.idekey = "PHPSTORM" と Phpstormの設定のideキーの記述名を一致させる**
 
 ## 4.XDebugの起動確認
 
